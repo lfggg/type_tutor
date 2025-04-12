@@ -1,6 +1,3 @@
-Absolutely! Here's the fully cleaned-up version with no numbering and no "Example" labels:
-
-```
 beneath - adverb - in a lower place; below  
 The sandwich has jelly on top and peanut butter beneath.
 
